@@ -1,27 +1,38 @@
-# TourOfHeroesAngular
+<p align="center">
+  <img src=".github/images/angular-logo.png" width="100px" />
+</p>
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.3.
+<h1 align="center">Tour Of Heroes Angular</h1>
+<p align="center">The Tour of Heroes app you create helps a hero recruiting agency. Done in one of the tutorials on the official Angular website.</p>
 
-## Development server
+<h3 align="center">
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+  <a href="./LICENSE" target="_blank">
+    <img alt="License: MIT" src="https://img.shields.io/badge/license%20-MIT-1C1E26?style=for-the-badge&labelColor=1C1E26&color=db534b">
+  </a>
 
-## Code scaffolding
+</h3>
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+<br />
 
-## Build
+# Techs
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+-  Less
+-  Angular
+-  rxjs
 
-## Running unit tests
+## Installation of dependencies and local use
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+<br />
 
-## Running end-to-end tests
+>> ### [Documentation Angular](https://angular.io/start)
+<br />
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+>Create somewhere on your pc, a folder to create a copy of the repository, inside it open command terminal and type the commands below:
 
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+```
+git clone https://github.com/AlanWehrliLC/tour-of-heroes-angular.git
+cd tour-of-heroes-angular
+npm install
+npm run start
+```
