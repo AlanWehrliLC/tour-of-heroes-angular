@@ -15,6 +15,14 @@
 
 <br />
 
+<p align="center">
+    <img height="500rem" src="./.github/images/image1.png">
+    <img height="500rem" src="./.github/images/image2.png">
+    <img height="500rem" src="./.github/images/image3.png">
+</p>
+
+<br />
+
 # Techs
 
 -  Less
@@ -25,7 +33,7 @@
 
 <br />
 
->> ### [Documentation Angular](https://angular.io/start)
+>> ### [Documentation Angular](https://angular.io/tutorial)
 <br />
 
 >Create somewhere on your pc, a folder to create a copy of the repository, inside it open command terminal and type the commands below:
