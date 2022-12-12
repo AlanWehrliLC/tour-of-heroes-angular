@@ -44,3 +44,8 @@ cd tour-of-heroes-angular
 npm install
 npm run start
 ```
+
+<br />
+
+> Test the app web
+>>#### [Tour Of Heroes Angular](https://tour-of-heroes-angular-flax.vercel.app/dashboard)
